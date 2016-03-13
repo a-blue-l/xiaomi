@@ -1,0 +1,84 @@
+/*黑色导航栏*/body,p,ul,ol,dl,dd,dt,li,h1,h2,h3,h4,h5,h6,input{
+    margin:0;
+    padding:0;
+    list-style:none;<去掉小圆点>                    
+  }
+a{
+    text-decoration:none;
+    color:#333;
+  }
+img{
+    border:none;
+  }
+/*总导航开始*/
+.topbar{
+   width:100%;
+   height:40px; 
+   background:#333;
+ }
+
+ .contain{
+   width:1226px;
+   height:40px;
+   background:#333;
+   margin:0 auto;
+  }
+
+  .topbar-nav{
+  /*  width:511px;*/
+	height:40px;
+	background:#333;
+	float:left;
+  }
+.topbar-nav ul{
+  font-size:12px;
+   color:#424242;
+  line-height:40px;
+}
+.topbar-nav.you{
+  float:right;
+}
+.one{
+  float:left;
+  margin-right:5.5px;
+}
+.two{
+  color:#b0b0b0;
+}
+.two:hover{
+  color:white;
+}
+.denglu{
+  float:right;
+  margin-right:5px;
+}
+.zhuce{
+  color: #b0b0b0;
+}
+.zhuce:hover{
+  color:#fff;
+}
+.gouwu{
+  width:120px;
+  height:40px;
+  background-image:url(../image/购物车01.png);
+  float:right;
+  position: relative;
+}  
+.gouwu:hover{
+  background-image:url(../image/购物车02.png);
+}
+.gouwu>a{
+  display: block;
+  width: 316px;
+  height:0px;
+  background:#fff;
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.3);
+  position: absolute;
+  top:40px;
+  right:-1px;
+  text-align: center;
+  line-height: 93px;
+  overflow: hidden;
+  z-index: 8;
+}

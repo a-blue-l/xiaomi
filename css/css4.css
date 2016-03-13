@@ -1,0 +1,109 @@
+/*智能硬件*/.mainhead{
+  width:100%;
+  height:58px;
+  background:#e0e0e0;
+}
+.main-nav{
+  width:1226px; 
+  height:58px;
+  font-size:22px;
+  line-height:58px;
+  background:#e0e0e0;
+  margin:0 auto;
+}
+.quanbu{
+  width:120px;
+  height:56px;
+  color:#424242;
+  font-size:16px;
+  text-align:center;
+  float:right;
+}
+.quanbu1:hover{
+  color:#ff6700;
+}
+.jiantou{
+  width: 22px;
+height: 22px;
+background:#b0b0b0;
+margin-left: 100px;
+margin-top:-39px;
+border-radius: 9.5px;
+font-size: 16px;
+color:white;
+line-height:18px;
+}
+.jiantou1{
+ color:white;
+}
+.jiantou:hover{
+ background:#ff6700;
+}
+/*广告开始*/
+.brick{
+  width:100%;
+  height:614px;
+  background:#e0e0e0;
+}
+.brick-nav{
+  width:1226px;
+  height:614px;
+  background:#e0e0e0;
+  margin:0 auto;
+}
+.navone{
+  width:234px;
+  height:614px;
+  float:left;
+}
+.navtwo{
+  width:992px;
+  height:614px;
+  background:#e0e0e0;
+  float:right;
+}
+.brick-list{
+  width:234px;
+  height:260px;
+  background:#fff;
+  text-align:center;
+  padding-top:20px;
+  padding-bottom:20px;
+  float:left;
+  margin-left:14px;
+  display:inline;
+}
+
+.dan1{
+  font-size:14px;
+ }
+ .dan2{
+   font-size:12px;
+   color:#b0b0b0;
+ }
+ .jiage{
+   color:#ff6700;
+   margin-top:14px;
+ }
+ .xueya{
+   height:163px;
+ }
+ .xiaoyi{
+   height:160px;
+ }
+ .jia{
+   height:163px;
+ }
+ .listone{
+   margin-top:14px;
+ }
+ .mian{
+   width:64px;
+   height:20px;
+   color:#fff;
+   font-size:12px;
+   background:#ffac13;
+   margin:0 auto;
+   margin-top:-20px;
+   
+ }

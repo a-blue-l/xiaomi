@@ -1,0 +1,260 @@
+.bottom{
+  width:100%;
+  height:272px;
+}
+.bottom1{
+  width:1226px;
+  height:43px;
+  margin:0 auto;
+  border-bottom:1px solid #e0e0e0;
+  padding-top:37px;
+}
+.bottom2{
+  width:1226px;
+  height:25px;
+}
+.bottom3{
+  width:242px;
+  height:25px;
+  background-image:url(../image/111.png);
+  margin:-1px -1px;
+  border-right:1px solid #e0e0e0;
+  float:left;
+}
+.bottom3:hover{
+  background-image:url(../image/1112.png)}
+.bottom4{
+  width:242px;
+  height:25px;
+  background-image:url(../image/222.png);
+  border-right:1px solid #e0e0e0;
+  float:left;
+  }
+  .bottom4:hover{
+    background-image:url(../image/2222.png);
+  }
+  .bottom5{
+     width:242px;
+  height:25px;
+  background-image:url(../image/333.png);
+  border-right:1px solid #e0e0e0;
+  float:left;
+  }
+  .bottom5:hover{
+    background-image:url(../image/3332.png);
+  }
+   .bottom6{
+     width:242px;
+  height:25px;
+  background-image:url(../image/444.png);
+  border-right:1px solid #e0e0e0;
+  float:left;
+  }
+  .bottom6:hover{
+    background-image:url(../image/4442.png);
+   }
+   .bottom7{
+     width:242px;
+  height:25px;
+  background-image:url(../image/555.png);
+  float:left;
+  }
+   .bottom7:hover{
+    background-image:url(../image/5552.png);
+   }
+
+.lianxi{
+  width:1226px;
+  height:152px;
+  background:#fff;
+  margin:0 auto;
+  padding-top:40px;
+}
+.lianxi-1{
+width:980px;
+height:112px;
+border-right:1px solid #b0b0b0;
+float:left;
+}
+.lianxi-2{
+  width:165px;
+  height:112px;
+  float:left;
+}
+.bangzhu{
+  width:165px;
+  height:17.5px;
+  font-size:14px;
+  margin-bottom:26px;
+}
+.zhinan{
+  width:48px;
+  height:14px;
+  font-size:12px;
+  color:gray;
+  margin-top:10px;
+}
+.yuyue{
+  font-size:12px;
+  color:gray;
+  margin-top:10px;
+}
+.zhinan:hover{
+  color:#ff6700;
+}
+.yuyue:hover{
+  color:#ff6700;
+}
+.dianhua{
+  width:242px;
+  height:112px;
+  float:right;
+}
+.dianhua-1{
+  width:242px;
+  height:22px;
+  font-size:22px;
+  color:#ff6700;
+  text-align:center;
+  margin-bottom:10px;
+}
+.dianhua-2{
+  width:142px;
+  height:36px;
+  font-size:12px;
+  color:#616161;
+  margin:0 auto;
+  text-align:center;
+  margin-bottom:16px;
+}
+.dianhua-3{
+  width:118px;
+  height:28px;
+  background:#fff;
+  border:1px solid #ff6700;
+  font-size:12px;
+  color:#ff6700;
+  text-align:center;
+  margin:0 auto;
+  line-height:28px;
+}
+.dianhua-3:hover{
+  color:#fff;
+  background:#ff6700;
+}
+.site{
+  width:100%;
+  height:36.5px;
+  padding:30px 0;
+  background:#fafafa;
+}
+.sitenav{
+  width:1226px;
+  height:36.5px;
+  margin:0 auto;
+  background:#fafafa;
+}
+.site-1{
+  height:18.5px;
+  background:#fafafa;
+}
+.site-2{
+  font-size:12px;
+  float:left;
+}
+
+.shu-1{
+  font-size:12px;
+  float:left;
+  color:#b0b0b0;
+  margin:0 2px;
+}
+.site-3{
+  width:649px;
+  height:18px;
+  font-size:12px;
+  color:#b0b0b0;
+  display:inline-block;
+}
+.site-2:hover{
+  color:#ff6700;
+}
+.site-4{
+ width:282px;
+ height:28px;
+ background:#fafafa;
+ float:right;
+  margin-top:-13px;
+}
+.tutu{
+  margin-left:7px;
+}
+.buchong{
+  width:100%;
+  height:60px;
+  background:#e0e0e0;
+}
+.video{
+  width:100%;
+  height:285px;
+  background:#e0e0e0;
+}
+.videonav{
+  width:1226px;
+  height:285px;
+  margin:0 auto;
+}
+.video1{
+  width:296px;
+  height:285px;
+  background:#fff;
+  float:left;
+  position:relative;
+}
+.video2{
+  width:210px;
+  height:16px;
+  margin:0 auto;
+  font-size:14px;
+  margin-top:20px;
+}
+.video:hover{
+  color:#ff6700;
+}
+.video3{
+  width:296px;
+  height:18px;
+  text-align:center;
+  font-size:12px;
+  color:#b0b0b0;
+  margin-top:13px;
+}
+.te{
+  margin-left:14px;
+}
+.video4{
+  width:100%;
+  height:60px;
+  background:#e0e0e0;
+}
+.buchong1{
+  width:100%;
+  height:22px;
+  background:#e0e0e0;
+}
+.video1:hover{
+  box-shadow:0px 10px 20px rgba(0,0,0,0.1);
+  margin-top:-5px;
+  transition:all 0.4s ease;
+}
+.kan{
+  width:28px;
+  height:19px;
+  background-image:url(../image/kan1.png);
+  position:absolute;
+  top:145px;
+  left:10px;
+}
+.kan:hover{
+  background-image:url(../image/kan2.png);
+}

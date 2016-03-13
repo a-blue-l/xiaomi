@@ -1,0 +1,165 @@
+/*Ö÷µ¼º½À¸*/.header{
+  width:100%;
+  height:100px;
+  background:#fff;
+  position: relative;
+}
+.header-nav{
+  width:1226px;
+  height:100px;
+  background:#fff;
+  margin:0 auto;
+}
+
+.biaozhi{
+  width:55px;
+  height:55px;
+  float:left;
+  margin-top:23px;
+  margin-left:-5px;
+}
+.list{
+  width:712px;
+  height:100px;
+  background:#fff;;
+  margin-left:225px;
+}
+.daohangx{
+  width: 1349px;
+  height: 229px;
+  position: absolute;
+  top:100px;
+  left:0;
+  z-index: 9;
+  background: #fff;
+  border-top: 1px solid #ccc;
+  display: none;
+}
+.daohang1{
+  width: 1226px;
+  height: 229px;
+  margin: 0 auto;
+}
+.daohang1 li{
+ float: left;
+ width: 180px;
+ padding: 35px 12px 0px;
+ text-align: center;
+ line-height: 20px;
+}
+.daohang1 p{
+  font-size: 12px;
+  text-align: center;
+}
+.daohang1 span{
+  color:#ff6700;
+  font-size: 12px;
+}
+.sousuo{
+  width:223px;
+  height:48px;
+  border:1px solid #e0e0e0;
+  float:right;
+  margin-top:27px;
+  position: relative;
+}
+.sousuox{
+  width: 223px;
+  height:300px;
+  position: absolute;
+  left:-1px;
+  top:48px;
+  border:1px solid #ff6700; 
+  background: #fff;
+  z-index: 9;
+  display: none;
+}
+.sousuox li{
+  width: 193px;
+  height: 18px;
+  padding:6px 15px;
+  cursor:pointer;
+}
+.sousuox li:hover{
+  background:rgba(0,0,0,0.04);
+}
+.sousuox p{
+  float: left;
+  font-size: 12px;
+  color:424242;
+}
+.sousuox span{
+  float:right;
+  color:#ccc;
+  font-size: 12px;
+}
+.sousuo:hover{
+  border-color:#b0b0b0;
+}
+.sousuo-1{
+  width:50px;
+  height:48px;
+  border:1px solid #e0e0e0;
+  border-left:0px;
+  float:right;
+  margin-top:27px;
+}
+.sousuo-1:hover{
+  border-color:#b0b0b0;
+}
+.list-one{
+  height: 100px;
+  color:#333;
+  font-size:16px;
+  float:left; 
+  padding:26px 18px 38px;
+  line-height: 80px;
+}
+.list-two:hover{
+  color:#FF6700;
+}
+.sou1:hover{
+  color:#fff;
+  background:#ff6700;
+}
+.sou2{
+  width:34px;
+  height:18px;
+   font-size:12px;
+  background:#eee;
+  text-align:center;
+  float:right;
+  margin-left:5px;
+  margin-top:15px;
+}
+.sou2:hover{
+  color:#fff;
+  background:#ff6700;
+}
+.sou1{
+  width:64px;
+  height:17px;
+  font-size:12px;
+  text-align:center;
+  background:#eee;
+  float:right;
+  margin-left:5px;
+  margin-top:15px;
+  border-left: none;
+}
+.sousuo-11:hover{
+ background-image:url(../image/ËÑË÷02.png);
+}
+.sousuo-11{
+   width:50px;
+   height:48px;
+   background-image:url(../image/ËÑË÷01.png);
+}
+.word{
+  width:100px;
+  height:40px;
+  margin-top:2px;
+  margin-left:5px;
+  border:0px;
+  float:left;
+}

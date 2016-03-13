@@ -1,0 +1,67 @@
+.reping{
+  width:100%;
+  height:38px;
+  background:#e0e0e0;
+  padding-top:20px;
+}
+.chanping{
+  width:1226px;
+  height:58px;
+  background:#e0e0e0;
+  margin:0 auto;
+  font-size:22px;
+}
+.relist{
+  width:1226px;
+  height:380px;
+  background:#e0e0e0;
+  margin:0 auto;
+}
+.beijing{
+  width:100%;
+  height:380px;
+  background:#e0e0e0;
+}
+.kuang{
+  width:296px;
+  height:380px;
+  background:#fff;
+  margin-right:14px;
+  text-align:center;
+  float:left;
+}
+.kuang:hover{
+  box-shadow:0px 10px 20px rgba(0,0,0,0.1);
+  margin-top:-5px;
+  transition:all 0.4s ease;
+}
+
+.kuang-1{
+  width:236px;
+  height:42px;
+  margin:0 auto;
+  font-size:14px;
+margin-top:10px;
+}
+.kuang-2{
+  width:236px;
+  height:18px;
+  margin:0 auto;
+  font-size:12px;
+  color:#b0b0b0;
+  margin-top:5px;
+  margin-bottom:20px;
+}
+.kuang-3{display:inline;
+  font-size:14px;
+}
+.kuang-4{display:inline;
+  font-size:14px;
+  color:#ff6700;
+}
+.kuang-5{display:inline;
+  color:#b0b0b0;
+}
+.chou{
+  margin-right:0px; 
+}

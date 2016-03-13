@@ -1,0 +1,74 @@
+/*Ã÷ÐÇµ¥Æ·*/.mingx{
+  font-size:22px;
+  width:1226px;
+  height:33px;
+  margin:0 auto;
+  margin-top:26px;
+  padding-top:25px;
+}
+.huadong{
+  width:34px;
+  height:22px;
+  border:1px solid #b0b0b0;
+  float:right;
+  text-align:center;
+  line-height:20px;
+  color:#757575;
+  cursor: pointer;
+}
+.huadong-1{
+  width:34px;
+  height:22px;
+  border:1px solid #b0b0b0;
+  float:right;
+  border-right:none;
+  text-align:center;
+  line-height:20px;
+  color:#b0b0b0;
+  cursor: pointer;
+}
+
+.danping{
+  width:1226px;
+  height:340px;
+  background:#fff;
+  margin:0 auto;
+  margin-bottom:30px;
+  position: relative;
+  overflow: hidden;
+}
+.danping1{
+  width: 2466px;
+  height: 340px;
+  position: absolute;
+  left:0;
+  top:0;
+}
+.first{
+  width:234px;
+  height:301px;
+  background:#fafafa;
+  text-align:center;
+  padding-top:39px;
+  border-top:1px solid #ff6700;
+  float:left;
+  margin-right:14px;
+}
+.first:hover{
+  box-shadow:0px 10px 20px rgba(0,0,0,0.1);
+  margin-top:-5px;
+  transition:all 0.4s ease;
+}
+.lest{
+  margin-right:0;
+  border-top:1px solid green;
+}
+.nav-2{
+   border-top:1px solid yellowgreen;
+}
+.nav-3{
+   border-top:1px solid blue;
+}
+.nav-4{
+   border-top:1px solid red;
+}
