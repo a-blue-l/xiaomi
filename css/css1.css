@@ -1,7 +1,7 @@
-/*ºÚÉ«µ¼º½À¸*/body,p,ul,ol,dl,dd,dt,li,h1,h2,h3,h4,h5,h6,input{
+/*ÂºÃšÃ‰Â«ÂµÂ¼ÂºÂ½Ã€Â¸*/body,p,ul,ol,dl,dd,dt,li,h1,h2,h3,h4,h5,h6,input{
     margin:0;
     padding:0;
-    list-style:none;<È¥µôÐ¡Ô²µã>                    
+    list-style:none;<ÃˆÂ¥ÂµÃ´ÃÂ¡Ã”Â²ÂµÃ£>                    
   }
 a{
     text-decoration:none;
@@ -10,7 +10,7 @@ a{
 img{
     border:none;
   }
-/*×Üµ¼º½¿ªÊ¼*/
+/*Ã—ÃœÂµÂ¼ÂºÂ½Â¿ÂªÃŠÂ¼*/
 .topbar{
    width:100%;
    height:40px; 
@@ -61,12 +61,12 @@ img{
 .gouwu{
   width:120px;
   height:40px;
-  background-image:url(../image/¹ºÎï³µ01.png);
+  background-image:url(../image/è´­ç‰©è½¦01.png);
   float:right;
   position: relative;
 }  
 .gouwu:hover{
-  background-image:url(../image/¹ºÎï³µ02.png);
+  background-image:url(../image/è´­ç‰©è½¦02.png);
 }
 .gouwu>a{
   display: block;
